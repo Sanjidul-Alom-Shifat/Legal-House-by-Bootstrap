@@ -1,0 +1,76 @@
+.btns{
+    background-color: #B68C5A !important;
+}
+
+/* heading section start */
+
+/* navigation bar style */
+.nav-btn{
+    background-color: #B68C5A !important;
+}
+/* navigation bar style */
+
+/* banner section */
+.banner{
+    background-image: url('../images/banner.png');
+     width: 1350px;
+    height: 550px; 
+    background-repeat: no-repeat;
+    background-position: center;
+
+} 
+.banner-content{
+    padding-top: 105px;
+}
+/* banner section */
+
+/* heading section end*/
+
+
+/* main section start */
+
+/* legal area section */
+/* card part */
+.card img{
+    height: 70px;
+    width: 70px;  
+}
+.card{
+    border:0;
+}
+.mid-cards{
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0) 100%);
+}
+/* card part */
+/* legal area section */
+
+/* client section */
+/* carousel slider */
+.carousel-item img{
+    height: 500px!important;
+}
+.carousel-caption img{
+    height: 80px !important;
+    width: 80px !important;
+}
+/* carousel slider */
+/* client section */
+
+/* accordion part */
+.accordion-item{
+    border: 0;
+}
+/* accordion part */
+
+/* contact area */
+.last img{
+      width: 25px;
+      height: 31px;
+}
+.last{
+      background: #F3F3F3;
+}
+/* contact area */
+
+/* main section end */
+
